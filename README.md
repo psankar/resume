@@ -44,7 +44,7 @@ Patents and Publications
 * US20100218187A1 - Patent on controlling desktop state
 * [Linux Identity](http://www.linuxidentity.com/us/index.php?name=News&file=article&sid=5032) magazine edition on openSUSE 11.1 release
 * Regularly blogging at http://psankar.blogspot.com and have been cited in various FOSS publications such as LWN
-* Aadhar UIDAI Basics https://www.amazon.in/Aadhar-UIDAI-Basics-SANKAR-P-ebook/dp/B07FM54B3Y/ 
+* [Aadhar UIDAI Basics](https://www.amazon.in/Aadhar-UIDAI-Basics-SANKAR-P-ebook/dp/B07FM54B3Y/) An open-source ebook explaining the fundamentals of the Aadar/UIDAI ecosystem.
 
 Likes
 -----
@@ -54,4 +54,4 @@ Likes
 
 Dislikes
 --------
-* Convoluted build systems, Spaghetti dependencies, Interviews focussed solely on algorithm or competitive programming skills
+* Convoluted build systems, Spaghetti dependencies, Interviews focussed solely on algorithm or competitive programming skills, Stack ranking
